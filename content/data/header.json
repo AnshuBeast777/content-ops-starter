@@ -1,16 +1,6 @@
 {
     "primaryLinks": [
         {
-            "label": "Services",
-            "altText": "Services",
-            "url": "/Services",
-            "icon": "chevronDown",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": false
-        },
-        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
@@ -41,6 +31,16 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Services",
+            "altText": "Services",
+            "url": "/Services",
+            "icon": "chevronDown",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": false
         },
         {
             "label": "About",
