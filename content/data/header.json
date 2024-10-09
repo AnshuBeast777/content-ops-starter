@@ -6,7 +6,7 @@
             "url": "/Services",
             "icon": "chevronDown",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Link",
             "showIcon": true
         },
