@@ -45,7 +45,7 @@
             "type": "Link"
         },
         {
-            "label": "Services",
+            "label": "Contact Us",
             "altText": "Services",
             "url": "/Services",
             "icon": "chevronDown",
