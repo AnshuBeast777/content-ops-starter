@@ -36,6 +36,15 @@
             "type": "SubNav"
         },
         {
+            "label": "About",
+            "altText": "About",
+            "url": "/About",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "label": "Services",
             "altText": "Services",
             "url": "/Services",
@@ -44,15 +53,6 @@
             "style": "secondary",
             "type": "Link",
             "showIcon": false
-        },
-        {
-            "label": "About",
-            "altText": "About",
-            "url": "/About",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [
