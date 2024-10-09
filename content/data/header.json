@@ -10,7 +10,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "AI Chatbot"
                 },
                 {
                     "label": "Dropdown item",
