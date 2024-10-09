@@ -5,7 +5,7 @@
             "altText": "Services",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "AI Chatbot",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
