@@ -4,7 +4,7 @@
             "label": "Services",
             "altText": "Services",
             "url": "/Services",
-            "icon": "chevronDown",
+            "icon": "instagram",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
