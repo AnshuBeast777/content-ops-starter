@@ -46,7 +46,7 @@
         },
         {
             "label": "Contact Us",
-            "altText": "Services",
+            "altText": "Contact Us",
             "url": "/Services",
             "icon": "chevronDown",
             "iconPosition": "right",
