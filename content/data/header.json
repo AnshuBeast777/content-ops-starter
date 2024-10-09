@@ -12,7 +12,7 @@
         },
         {
             "label": "About",
-            "altText": "Careers page",
+            "altText": "About",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
