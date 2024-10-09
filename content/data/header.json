@@ -1,20 +1,4 @@
 {
-    "logo": {
-        "altText": "ProBots Automation",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ],
-                "padding": [
-                    "pl-0"
-                ]
-            }
-        },
-        "type": "ImageBlock",
-        "elementId": "",
-        "url": "/images/Firefly Create a logo a text logo named -Probots-. only text, no image or anything , only text type .jpg"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
