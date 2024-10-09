@@ -5,7 +5,7 @@
             "altText": "Services",
             "url": "/Services",
             "icon": "chevronDown",
-            "iconPosition": "left",
+            "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
             "showIcon": true
