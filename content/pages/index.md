@@ -7,9 +7,7 @@ sections:
       text: Automate Your Business with AI-Powered Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      ProBots Automation helps businesses streamline operations and improve
-      efficiency through AI-powered chatbots and process automation.
+    subtitle: Automate. Elevate. Succeed
     text: >
       ProBots Automation helps businesses streamline operations and improve
       efficiency through AI-powered chatbots and process automation.
