@@ -7,7 +7,9 @@ sections:
       text: Automate Your Business with AI-Powered Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      ProBots Automation helps businesses streamline operations and improve
+      efficiency through AI-powered chatbots and process automation.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
