@@ -11,9 +11,8 @@ sections:
       ProBots Automation helps businesses streamline operations and improve
       efficiency through AI-powered chatbots and process automation.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      ProBots Automation helps businesses streamline operations and improve
+      efficiency through AI-powered chatbots and process automation.
     actions:
       - label: Get started
         altText: ''
