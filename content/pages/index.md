@@ -234,7 +234,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: ''
+      url: 'https://youtu.be/dctcfxw13AQ?si=Gucbk3gCNXn--uuh'
       controls: false
       aspectRatio: '16:9'
       styles:
