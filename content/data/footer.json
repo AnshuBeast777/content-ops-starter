@@ -2,7 +2,8 @@
     "logo": {
         "url": "/images/Firefly Create a logo a text logo named -Probots-. only text, no image or anything , only text type .jpg",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "footerlogo"
     },
     "text": "A description of your brand",
     "primaryLinks": {
