@@ -63,11 +63,9 @@ sections:
       - type: FeaturedItem
         title: 24/7 Customer Support
         subtitle: Numbers Done
-        text: >+
-
-          Provide continuous support and instant responses to customer queries
-          at any time, ensuring satisfaction and minimizing wait times.
-
+        text: >
+          Provide **continuous support** and **instant responses** to customer
+          queries at any time, ensuring satisfaction and minimizing wait times.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
