@@ -47,7 +47,7 @@
         {
             "label": "Contact Us",
             "altText": "Contact Us",
-            "url": "/ContactUs",
+            "url": "",
             "icon": "chevronDown",
             "iconPosition": "right",
             "style": "secondary",
