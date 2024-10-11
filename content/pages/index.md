@@ -65,8 +65,8 @@ sections:
         subtitle: Numbers Done
         text: >+
 
-          Chatbots are always available, helping customers instantly and
-          improving satisfaction.
+          Provide continuous support and instant responses to customer queries
+          at any time, ensuring satisfaction and minimizing wait times.
 
         actions: []
         elementId: null
