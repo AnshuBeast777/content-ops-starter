@@ -116,7 +116,7 @@ sections:
       - title: Personalized Experiences
         subtitle: Faster
         text: >
-          Leverage AI to deliver personalized experiences, adapting to
+          Leverage AI to deliver **personalized experiences**, adapting to
           individual preferences and behaviors, driving customer loyalty and
           engagement.
         image:
