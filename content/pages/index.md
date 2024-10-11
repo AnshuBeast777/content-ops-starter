@@ -68,7 +68,7 @@ sections:
           queries at any time, ensuring satisfaction and minimizing wait times.
         actions: []
         elementId: null
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
