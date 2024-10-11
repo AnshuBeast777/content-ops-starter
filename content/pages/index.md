@@ -92,8 +92,8 @@ sections:
         subtitle: The Job Stuff
         text: >
           Automate repetitive processes like answering common questions or
-          booking appointments, allowing your team to focus on more critical
-          tasks.
+          **booking appointments**, allowing your team to focus on more
+          **critical tasks**.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
