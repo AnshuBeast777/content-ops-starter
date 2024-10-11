@@ -117,13 +117,10 @@ sections:
         type: FeaturedItem
       - title: Personalized Experiences
         subtitle: Faster
-        text: >+
-
-          Chatbots adapt to user preferences, offering a tailored experience
-          that boosts customer loyalty.
-
-
-
+        text: >
+          Leverage AI to deliver personalized experiences, adapting to
+          individual preferences and behaviors, driving customer loyalty and
+          engagement.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
