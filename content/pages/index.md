@@ -63,10 +63,11 @@ sections:
       - type: FeaturedItem
         title: 24/7 Customer Support
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Chatbots are always available, helping customers instantly and
+          improving satisfaction.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
