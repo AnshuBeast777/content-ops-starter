@@ -93,9 +93,14 @@ sections:
       - title: Automate Routine Tasks
         subtitle: The Job Stuff
         text: >+
+          Automate repetitive processes like answering common questions or
+          booking appointments, allowing your team to focus on more critical
+          tasks.
 
-          Chatbots handle common tasks like FAQs and bookings, freeing up your
-          team for bigger tasks.
+
+          ###
+
+
 
         image:
           url: /images/icon2.svg
