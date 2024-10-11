@@ -92,14 +92,10 @@ sections:
               borderRadius: x-large
       - title: Automate Routine Tasks
         subtitle: The Job Stuff
-        text: >+
+        text: >
           Automate repetitive processes like answering common questions or
           booking appointments, allowing your team to focus on more critical
           tasks.
-
-
-          ###
-
         image:
           url: /images/icon2.svg
           altText: Featured icon two
